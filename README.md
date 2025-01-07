@@ -8,6 +8,13 @@ Sou **desenvolvedor Full Stack** com mais de **10 anos de experiência**, atuand
 
 ---
 
+### :trophy: Certificações
+
+- **Microsoft Certified**: PL-900  
+- **Microsoft Certified**: PL-600  
+
+---
+
 ### Tecnologias & Ferramentas
 
 [![.NET Badge](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)](https://dotnet.microsoft.com/) 
@@ -25,10 +32,16 @@ Sou **desenvolvedor Full Stack** com mais de **10 anos de experiência**, atuand
 - Experiência em desenvolvimento **Front-End** e **Back-End**.  
 - Conhecimento de **arquitetura de software** e **melhores práticas** de desenvolvimento.  
 - Atuo em projetos corporativos complexos, incluindo integrações e soluções voltadas para **Microsoft**.  
-- Apaixonado por aprender, compartilhar conhecimento e trabalhar em equipe para entregar **soluções incríveis**.
-
+- Apaixonado por aprender, compartilhar conhecimento e trabalhar em equipe para entregar **soluções incríveis**.  
+- :microsoft: **Certificado Microsoft** (PL-900 e PL-600).
 
 ---
 
 Sinta-se à vontade para **conectar comigo** e trocar uma ideia!  
-Bons códigos! 
+Bons códigos!  
+
+---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/26692214/210157620-26188c16-60e0-4f7c-8658-d993abb0e56e.png" width="100" alt="Microsoft Logo"/>
+</p>
